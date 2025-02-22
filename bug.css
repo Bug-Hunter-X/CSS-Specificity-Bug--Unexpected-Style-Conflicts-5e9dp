@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected results when styles from different selectors conflict.  For instance, an inline style might override a style in an embedded <style> tag, which might override a style in an external stylesheet.  Debugging this requires carefully examining all CSS rules affecting the element and understanding the order of precedence.
