@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug related to specificity and selector precedence. The `bug.css` file contains CSS code that produces an unexpected outcome because of conflicting style rules. The `bugSolution.css` file provides a solution by clarifying selector specificity or reorganizing the CSS rules to achieve the desired style.
